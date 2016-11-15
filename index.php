@@ -1,0 +1,1 @@
+<?php require "layout/index.php"; ?>
